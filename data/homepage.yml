@@ -1,0 +1,251 @@
+head:
+  title: "Angie Valle's Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hola, soy Angie Paola Valle Feolis."
+  subtitle: "Ingeniera industrial en crecimiento"
+  description: "Soy estudiante de la universidad del Magdalena que cursa 4to semestre, le gusta crear y aprender cosas nuevas por eso, ingeniería industrial fue la perfecta elección para ella basandose en sus gustos en distintas áreas y cualidades."
+  image:
+    x: "img/showcase/a.jpg"
+    _2x: "img/showcase/a.jpg"
+  imageMobile:
+    x: "img/showcase/a.jpg"
+    _2x: "img/showcase/a.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Angie"
+    URL: "mailto:angiepaovallefeolis@gmail.com"
+
+  socialLinks:
+
+    - icon: "github"
+      URL: "https://github.com/Vannief07"
+
+    - icon: "youtube"
+      URL: "https://youtube.com/@angievallefeoli4722?si=LuJZbJpMpXhtQuOi"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/vfeoli?igsh=MWEzY2FlaDJ3ZGRrbw=="
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/share/16MRGE6RYW/?mibextid=qi2Omg"
+
+
+
+# about
+about:
+  enable: true
+  title: "¿Quién soy yo?"
+  content: 
+    <p class="lead">
+    <strong>Me gusta el análisis de datos y saber el por qué de las cosas.</strong> Me considero una persona curiosa que le gusta hacer muchas cosas pero a la vez
+    esto puede ser una desventaja por no poder encontrar un enfoque en una sola cosa.
+    Mi color favorito es el rosa y amo el arroz de pollo como la limonada de coco.
+    Mis hobbies favoritos son bailar, leer (en especial el género thriller o de fantasía),
+    hacer recetas de comida y dulces que pueda encontrarme en instagram porque barriga llena y corazón contento.
+    Además, me gustan los idiomas porque sí bien sé que son esenciales e importantes para la vida laboral
+    lo que me motiva a aprender es el hecho de poder comunicarte y aprender sobre sus costumbres porque
+    cuando estudias una lengua estás aprendiendo sobre la historia y cultura de ese país.
+    Por el moemnto estoy estudiando el inglés e italiano (este último me gusta mucho más)
+    </p>
+    <p class="lead">
+    <strong>Las materias que más me gustan son estadística y química.</strong> La primera me ayuda a resolver explicaciones y predecir sucesos,
+    mientras que la otra me ayuda a conocer más sobre el mundo que nos rodea. No soy una experta
+    en estas dos materias pero desde que elegí esta carrera me ha llamado el interés
+    sobre lo que estas dos áreas pueden proporcionarme. No hay nada más bonito que el conocimiento
+    (Aunque a veces cueste entender dichas cosas). Estoy interesada en la docencia
+    y/o ser traductora, sin embargo, el propósito que que Dios tenga para mí
+    lo aceptaré y agradeceré.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.instagram.com/vfeoli?igsh=MWEzY2FlaDJ3ZGRrbw=="
+  image:
+    x: "img/who-am-i/b.jpg"
+    _2x: "img/who-am-i/b.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "He trabajado en pocos negocios desde hace dos años
+  que no tienen nada que ver con mi carrera universitaria por lo que,
+  no tengo experiencia laboral que tenga que ver con mi área."
+
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Colegio Cajamag"
+      year: "2008-2021"
+      degree: "Graduada de Bachiller"
+
+    - university: "Universidad del Magdalena"
+      year: "2023-cursando"
+      degree: "Cursando la carrera aún en la actualidad"
+      
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Huerta Hidropónica"
+      description: "La hidroponía es un método versátil con distintos tipos de cultivos hidropónicos
+      para las plantas donde no se utiliza suelo, sino que las raíces se sumergen en una solución 
+      acuosa rica en nutrientes para su desarrollo. Este cultivo transforma nuevas
+      y nos da mejores alternativas para la optimización de los recursos y el trabajo en la siembra. Es totalmente
+      opuesto al cultivo tradicional (agrícola) teniendo así grandes ventajas no solo
+      para los comerciantes y los compradores sino también para el medio ambiente. Gracias a la
+      materia de ciencia y tecnología de los materiales hemos aprendido y conocido
+      sobre este valioso e importante cultivo."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Para más información sobre la hidroponia"
+        URL: "https://youtu.be/h-8HeAhzOYU?si=mdOI7gHFLRMJfoxO"
+      image:
+        x: "img/works/aa.jpg"
+        _2x: "img/works/aa.jpg"
+      is_even: true
+
+    - title: "Ventajas sobre la realización de esta producción"
+      description: "Este cultivo ofrece múltiples ventajas frente a la 
+      agricultura tradicional. En primer lugar, nos permite cultivar sin 
+      necesidad de hacer uso de la tierra, lo que lo hace ideal para zonas urbanas, 
+      o con suelos pobres. Además, reduce significativamente 
+      el consumo de agua, ya que esta se recircula y reutiliza constantemente gracias a su estructura hidropónica, 
+      haciendo el sistema mucho más eficiente y amigable con la naturaleza.
+      Otra gran ventaja es el control total sobre los nutrientes que reciben 
+      las plantas. Al administrarlos directamente en la solución nutritiva, 
+      se optimiza su absorción y se favorece un crecimiento más rápido y 
+      saludable para el consumo humano. Esto también disminuye la necesidad de usar fertilizantes 
+      en exceso o pesticidas, ya que el ambiente controlado reduce el riesgo 
+      de plagas y enfermedades.El cultivo hidropónico también permite una 
+      producción continua durante todo el año, independientemente del clima, 
+      lo que garantiza mayor estabilidad en la oferta de alimentos. 
+      Además, al poderse implementar en espacios pequeños o verticales, 
+      aumenta la productividad por metro cuadrado, ideal para aprovechar 
+      al máximo el espacio disponible. Finalmente, este tipo de cultivo es más 
+      limpio y sostenible, ya que genera menos residuos, evita la erosión del 
+      suelo y puede integrarse fácilmente en proyectos ecológicos, educativos o 
+      comerciales.
+      
+      Cabe a aclarar que todo este proyecto ha sido un proceso largo y demandante desde inicios de este semestre,
+      hemos cometido errores y aprendido de ellos porque a pesar de que la hidropónia nos
+      ofrece tantas cosas buenas no estamos excentos (y al ser nuestra primera vez) de cometer
+      errores pero eso mismo hace parte de lo que somos como ingenieros industriales,
+      estancarse no es una opción para nosotros, debemos buscar medios para solucionar dicho
+      problema porque el ingenio, la capacidad de resolver y optimizar recursos son necesarios
+      para poder obtener buenos resultados."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "¿Cómo hacer un cultivo Hidropónico?"
+        URL: "https://youtu.be/DuNjVVzDkW8?si=W0fqjFZaIzOV0f8S"
+      image:
+        x: "img/works/bb.jpg"
+        _2x: "img/works/bb.jpg"
+      is_even: false
+
+    
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+  
+    - name: "Konny Carolina Correa Lozano"
+      position: "Estudiante universitaria e integrante del proyecto huerta hidropónica"
+      content: "Esta investigación de este nuevo modelo de cultivo que está cobrando
+      popularidad y reconocimiento nos ha ayudado a implementar nuevas soluciones mediante 
+      la optimización de recursos para el mejoramiento en la calidad del sector de alimentos
+      y a su vez, a la contribución al cuidado del medio ambiente."
+      image:
+        x: "img/testimonials/aaa.jpg"
+        _2x: "img/testimonials/aaa.jpg"
+        
+    - name: "Lauris Romero"
+      position: "Estudiante universitaria e integrante del proyecto huerta hidropónica"
+      content: "Aunque al principio la huerta hidropónica puede ser un poco costosa
+      (también depende que sistema de cultivo hidropónico se utilice, en nuestro caso fue
+      el vertical) a la larga con los debidos parámetros y cuidados que se necesita
+      de principio y fin en la siembra sea de frutos, hortalizas, etc, sale muy rentable
+      para el bolsillo de las personas que desean emprender sin necesidad de tener un terreno o que este sea fértil.
+      Ya no es necesario porque aquí no se necesitará cultivar en tierra lo que
+      permite que este cultivo sea muy rentable."
+      image:
+        x: "img/testimonials/bbb.jpg"
+        _2x: "img/testimonials/bbb.jpg"
+
+
+# contact
+contact:
+  enable: true
+  title: "Contact Angie"
+    
+  image:
+    x: "img/who-am-i/z.jpg"
+    _2x: "img/who-am-i/z.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:angiepaovallefeolis@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "3108915404"
+  email:
+    title: "Email"
+    email: '<a href="angiepaovallefeolis@gmail.com">angiepaovallefeolis@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Manzana J casa206 Villa Marbella"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
